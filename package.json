@@ -1,0 +1,16 @@
+{
+  "name": "instaclone-edu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev" :""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MONG-SIL/Instagram_Clone_Coding/settings"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
